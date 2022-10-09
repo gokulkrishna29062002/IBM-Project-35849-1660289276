@@ -1,7 +1,9 @@
                                                    SMART FARMER - IoT ENABLED SMART FARMING APPLICATION
 
 						                                                         	ABSTRACT  
-         From farm to fork,information and communication technology sector is being enhanced to facilitate the farmers, 
+																																			
+        
+	From farm to fork,information and communication technology sector is being enhanced to facilitate the farmers, 
 croppers and related users of intelligent services.Technological revolution integrates the development of smart devices and IoT services. 
 To feed the ever growing global population, the agriculture industry needs to be extended. 
 Internet of Things opens the door wide for smart farming solution to increase the agricultural production. 
